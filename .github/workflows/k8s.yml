@@ -13,3 +13,4 @@ jobs:
           kubectl get pods -A
           sleep 20
           kubectl get pods -A
+          helm version
